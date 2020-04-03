@@ -41,7 +41,7 @@
     "express": "^4.17.1",
     "express-session": "^1.16.2",
     "jsonwebtoken": "^8.5.1",
-    "nyc": "^15.0.0",
+    "nyc": "^15.0.1",
     "passport": "^0.4.0",
     "pug": "^2.0.4"
   }
